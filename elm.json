@@ -3,7 +3,7 @@
     "name": "brainrake/elm-mathml",
     "summary": "MathML for Elm",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "MathML",
         "MathML.Attributes"
